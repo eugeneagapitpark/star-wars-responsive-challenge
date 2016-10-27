@@ -1,0 +1,38 @@
+header {
+  background-color: #EEB951;
+  height: 95px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+h1, h2, p {
+  font-family: Roboto;
+  text-align: left;
+  vertical-align: center;
+  margin: 0px;
+}
+
+.title {
+  line-height: 1;
+  margin-top: 20px;
+}
+
+.text {
+  padding: 20px;
+}
+
+p {
+  line-height: 2.2;
+}
+
+h2 {
+  font-size: 14pt;
+}
+
+img {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
